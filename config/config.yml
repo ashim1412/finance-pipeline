@@ -1,0 +1,7 @@
+data:
+  raw_dir: "data/raw"
+  n_customers: 10000
+  start_date: "2021-01-01"
+  end_date: "2025-08-31"
+
+seed: 42 
